@@ -1,0 +1,1 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%><%@ page session="false"%><!DOCTYPE html><html><title>Video Store Home Page</title><body>	<h1>Welcome, ${name}</h1>	<div>	<a href="addCustomer">Add Customer Profile</a><br>	</div></body></html>
